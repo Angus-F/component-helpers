@@ -28,7 +28,7 @@ import (
 )
 
 // +k8s:deepcopy-gen=true
-// +k8s:deepcopy-gen:interfaces=k8s.io/component-helpers/auth/rbac/reconciliation.RoleBinding
+// +k8s:deepcopy-gen:interfaces=github.com/Angus-F/component-helpers/auth/rbac/reconciliation.RoleBinding
 // +k8s:deepcopy-gen:nonpointer-interfaces=true
 type RoleBindingAdapter struct {
 	RoleBinding *rbacv1.RoleBinding

@@ -26,7 +26,7 @@ import (
 )
 
 // +k8s:deepcopy-gen=true
-// +k8s:deepcopy-gen:interfaces=k8s.io/component-helpers/auth/rbac/reconciliation.RuleOwner
+// +k8s:deepcopy-gen:interfaces=github.com/Angus-F/component-helpers/auth/rbac/reconciliation.RuleOwner
 // +k8s:deepcopy-gen:nonpointer-interfaces=true
 type ClusterRoleRuleOwner struct {
 	ClusterRole *rbacv1.ClusterRole

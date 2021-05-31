@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 
 	v1 "k8s.io/api/core/v1"
-	"k8s.io/component-helpers/scheduling/corev1/nodeaffinity"
+	"github.com/Angus-F/component-helpers/scheduling/corev1/nodeaffinity"
 )
 
 // PodPriority returns priority of the given pod.
