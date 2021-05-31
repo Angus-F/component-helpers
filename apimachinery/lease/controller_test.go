@@ -33,9 +33,9 @@ import (
 	"k8s.io/apimachinery/pkg/types"
 	"k8s.io/apimachinery/pkg/util/clock"
 	"k8s.io/apimachinery/pkg/util/diff"
-	clientset "k8s.io/client-go/kubernetes"
-	"k8s.io/client-go/kubernetes/fake"
-	clienttesting "k8s.io/client-go/testing"
+	clientset "github.com/Angus-F/client-go/kubernetes"
+	"github.com/Angus-F/client-go/kubernetes/fake"
+	clienttesting "github.com/Angus-F/client-go/testing"
 	"k8s.io/utils/pointer"
 
 	"k8s.io/klog/v2"

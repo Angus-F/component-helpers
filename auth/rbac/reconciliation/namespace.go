@@ -22,7 +22,7 @@ import (
 	apierrors "k8s.io/apimachinery/pkg/api/errors"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	utilerrors "k8s.io/apimachinery/pkg/util/errors"
-	corev1client "k8s.io/client-go/kubernetes/typed/core/v1"
+	corev1client "github.com/Angus-F/client-go/kubernetes/typed/core/v1"
 )
 
 // tryEnsureNamespace gets or creates the given namespace while ignoring forbidden errors.

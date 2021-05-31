@@ -26,8 +26,8 @@ import (
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/util/clock"
 	"k8s.io/apimachinery/pkg/util/wait"
-	clientset "k8s.io/client-go/kubernetes"
-	coordclientset "k8s.io/client-go/kubernetes/typed/coordination/v1"
+	clientset "github.com/Angus-F/client-go/kubernetes"
+	coordclientset "github.com/Angus-F/client-go/kubernetes/typed/coordination/v1"
 	"k8s.io/utils/pointer"
 
 	"k8s.io/klog/v2"

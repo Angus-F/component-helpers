@@ -487,7 +487,7 @@
 			"Rev": "44113beed5d3"
 		},
 		{
-			"ImportPath": "k8s.io/client-go",
+			"ImportPath": "github.com/Angus-F/client-go",
 			"Rev": "fe090a55f17e"
 		},
 		{

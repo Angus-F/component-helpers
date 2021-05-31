@@ -23,7 +23,7 @@ import (
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/types"
-	rbacv1client "k8s.io/client-go/kubernetes/typed/rbac/v1"
+	rbacv1client "github.com/Angus-F/client-go/kubernetes/typed/rbac/v1"
 )
 
 // +k8s:deepcopy-gen=true
