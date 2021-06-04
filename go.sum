@@ -1,7 +1,7 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
-github.com/Angus-F/client-go v0.0.0-20210530083209-64b6dbd34c98 h1:uilzoqtkpFjav3ECelCGy68jQEjIQ6V05MrRi2ncciw=
-github.com/Angus-F/client-go v0.0.0-20210530083209-64b6dbd34c98/go.mod h1:cFur3mEDThMyk//RHnhl/LoaFN+mgBfNFklBbQbA1As=
+github.com/Angus-F/client-go v0.0.0-20210604094309-b539923f0545 h1:cJwko9LMp6pIpAhx4zm2C29UlIK2cQbPsRW+t+41M+k=
+github.com/Angus-F/client-go v0.0.0-20210604094309-b539923f0545/go.mod h1:cFur3mEDThMyk//RHnhl/LoaFN+mgBfNFklBbQbA1As=
 github.com/Angus-F/component-helpers v0.20.0-alpha.2.0.20210531070008-c2c74f8489ae/go.mod h1:YGDmDPrNkYyXLxoUYsiqID45xjVJs7RX4TH3KCGXUNE=
 github.com/Azure/go-autorest v14.2.0+incompatible/go.mod h1:r+4oMnoxhatjLLJ6zxSWATqVooLgysK6ZNox3g/xq24=
 github.com/Azure/go-autorest/autorest v0.11.17/go.mod h1:eipySxLmqSyC5s5k1CLupqet0PSENBEDP93LQ9a8QYw=

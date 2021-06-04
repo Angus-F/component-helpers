@@ -14,7 +14,7 @@ require (
 )
 
 replace (
-	github.com/Angus-F/client-go => github.com/Angus-F/client-go v0.0.0-20210530083209-64b6dbd34c98
+	github.com/Angus-F/client-go => github.com/Angus-F/client-go v0.0.0-20210604094309-b539923f0545
 	github.com/Angus-F/component-helpers => github.com/Angus-F/component-helpers v0.20.0-alpha.2.0.20210531070008-c2c74f8489ae
 	k8s.io/api => k8s.io/api v0.0.0-20210526145656-c1965f366614
 	k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20210526145310-44113beed5d3
